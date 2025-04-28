@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Yachana Katharani Kotak - Flutter Developer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f6f8;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header {
+      background-color: #4CAF50;
+      padding: 30px 20px;
+      text-align: center;
+      color: white;
+    }
+    section {
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h1, h2, h3 {
+      color: #4CAF50;
+    }
+    .project {
+      margin-bottom: 20px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #ddd;
+    }
+    a {
+      color: #4CAF50;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Hi, I'm Yachana Katharani Kotak</h1>
+  <p>Flutter Developer | 3+ Years Experience | Remote Work Enthusiast</p>
+</header>
+
+<section>
+  <h2>About Me</h2>
+  <p>I am a passionate Flutter developer with over 3 years of experience. I specialize in building scalable and beautiful mobile applications. I have deployed multiple apps on the Play Store and App Store. Currently, I am seeking a remote Flutter developer role with a minimum salary of ₹35,000/month.</p>
+
+  <h2>Skills</h2>
+  <ul>
+    <li>Flutter & Dart</li>
+    <li>REST API Integration</li>
+    <li>Firebase (Authentication, Firestore, Push Notifications)</li>
+    <li>State Management (Provider, Riverpod basics)</li>
+    <li>App Deployment (Play Store & App Store)</li>
+    <li>Git & GitHub</li>
+    <li>Responsive UI Design</li>
+  </ul>
+
+  <h2>Projects</h2>
+
+  <div class="project">
+    <h3>1. Hunar Vastu (Live App)</h3>
+    <p><strong>Description:</strong> Astrology and Numerology-based app offering predictions and insights.</p>
+    <p><strong>Technologies:</strong> Flutter, Firebase, REST APIs</p>
+    <p><a href="#">Play Store Link (Coming Soon)</a></p>
+  </div>
+
+  <div class="project">
+    <h3>2. E-Commerce Shopping App</h3>
+    <p><strong>Description:</strong> E-commerce application with cart and payment gateway integration.</p>
+    <p><strong>Technologies:</strong> Flutter, Firebase, Razorpay</p>
+    <p><a href="#">GitHub Repo (Optional)</a></p>
+  </div>
+
+  <div class="project">
+    <h3>3. Learning Management App</h3>
+    <p><strong>Description:</strong> App for managing online courses and certifications.</p>
+    <p><strong>Technologies:</strong> Flutter, Firebase</p>
+  </div>
+
+  <h2>Work Experience</h2>
+  <ul>
+    <li>Flutter Developer at Keshav Infotech (2021-2022)</li>
+    <li>Senior Flutter Developer at RK Infotech (2022-2024)</li>
+    <li>Flutter Developer at Wisdomlogix Solution (2024)</li>
+    <li>Freelancer (Current)</li>
+  </ul>
+
+  <h2>Education</h2>
+  <ul>
+    <li>Master of Computer Applications (MCA) - Sunshine College (2019-2021)</li>
+    <li>Bachelor of Computer Applications (BCA) - Geetanjali College (2017-2019)</li>
+  </ul>
+
+  <h2>Contact</h2>
+  <p><strong>Email:</strong> <a href="mailto:yachanakotak@gmail.com">yachanakotak@gmail.com</a></p>
+  <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/yachana-katharani/" target="_blank">Yachana Katharani</a></p>
+  <p><strong>Location:</strong> Rajkot, India (Available for Remote Work)</p>
+
+</section>
+
+<footer>
+  <p>© 2025 Yachana Katharani Kotak. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
